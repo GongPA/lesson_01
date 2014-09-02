@@ -3,4 +3,4 @@
 """Prints a ``Hello World`` statement."""
 
 
-print "Hello GongPA"
+print('Hello GongPA')
